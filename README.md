@@ -1,13 +1,4 @@
 
----
-
----
-
-
-
----
-
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nyc154&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
@@ -24,5 +15,3 @@
     <img src="https://skillicons.dev/icons?i=tailwind,postgres,docker,git,laravel,php" />
   </a>
 </p>
-
----
